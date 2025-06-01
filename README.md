@@ -1,27 +1,29 @@
 # Order-Processing-System
-A Java-based application built as part of the "Data Structure" course at Univesity of Jeddah. This system simulates a simple order queue for an e-ecommerce platform using singly linked lists, with support for priority processing and order tracking.
 
-Features
-Add, fulfill, or cancel customer orders
-Priority queue implementation (high vs. normal)
-Linked list-based order storage (FIFO)
-Completed & Cancelled orders managment
-Data persistence with Java serialization
-Console-based interactive menu
-Technologies
-Java
+A Java-based application built as part of the "Data Structure" course at University of Jeddah. This system simulates a simple order queue for an e-commerce platform using singly linked lists, with support for priority processing and order tracking.
 
-Object-Oriented Programming
+## Features
 
-Linked Lists (Custom Implemntation)
+- Add, fulfill, or cancel customer orders  
+- Priority queue implementation (high vs. normal)  
+- Linked list-based order storage (FIFO)  
+- Completed & Cancelled orders management  
+- Data persistence with Java serialization  
+- Console-based interactive menu  
 
-Serialization
+## Technologies
 
-CLI
+- Java  
+- Object-Oriented Programming  
+- Linked Lists (Custom Implementation)  
+- Serialization  
+- CLI  
 
-Team Members
-Rimas Almuntashiri
+## Team Members
 
-Sadeem Awak
+- Rimas Almuntashiri  
+- Sadeem Awak  
 
--This project was created for educational purposes and is a demonstration of core data structure concepts in Java.
+---
+
+_This project was created for educational purposes and is a demonstration of core data structure concepts in Java._
